@@ -6,6 +6,10 @@
     font-family: 'Roboto', sans-serif;
     color: white;
     background-color: black;
+
+    &::-webkit-scrollbar{
+        display: none;
+    }
 }
 
 a{
