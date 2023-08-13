@@ -1,2 +1,2 @@
 # netflix_clone
-learning why react 
+geting Started Sunday 13 Aug 9:29 Am
