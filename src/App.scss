@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Roboto:wght@300;400;700&family=Tilt+Prism&display=swap');
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(191, 191, 191);
+}
+
+$bg :rgb(0, 0, 0);
+.header{
+    background-color: $bg;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: space-between;
+    >img{
+        height: 100%;
+        width: auto;
+    }
+    >div{
+        width : 100%;
+        margin-left: 2rem;
+        >a{
+            margin-right: 2rem;
+            text-decoration: none;
+        }
+        a:hover {
+            color: white;
+          }
+    }
+    >svg{
+        color:white;
+        font-size: 2rem;
+        margin-right: 1rem;
+        cursor: pointer;
+    }
+}
