@@ -46,6 +46,13 @@
             margin: 1rem;
             font-size: 1rem;
             color: black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            >svg{
+                font-size: 1.7rem;
+                margin: 0 10px;
+            }
         }
     }
    
