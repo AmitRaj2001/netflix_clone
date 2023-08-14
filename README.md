@@ -1,5 +1,11 @@
 # Sunday 13 August 2023
 
+<img width="1440" alt="Screenshot 2023-08-14 at 6 35 44 PM" src="https://github.com/AmitRaj2001/netflix_clone/assets/132377537/664b30f8-a694-47dd-ae55-65456c89fb5c">
+
+<img width="1440" alt="Screenshot 2023-08-14 at 6 35 52 PM" src="https://github.com/AmitRaj2001/netflix_clone/assets/132377537/bfa9e7eb-bcce-4590-b7da-5106f4f712d6">
+
+<img width="1440" alt="Screenshot 2023-08-14 at 6 36 00 PM" src="https://github.com/AmitRaj2001/netflix_clone/assets/132377537/a824b5c9-68e4-43d2-841a-372f47ca192a">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
